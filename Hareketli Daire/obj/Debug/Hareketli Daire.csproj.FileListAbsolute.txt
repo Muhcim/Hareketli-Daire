@@ -1,0 +1,9 @@
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\bin\Debug\Hareketli Daire.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\bin\Debug\Hareketli Daire.exe
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\bin\Debug\Hareketli Daire.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\obj\Debug\Hareketli Daire.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\obj\Debug\Hareketli_Daire.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\obj\Debug\Hareketli_Daire.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\obj\Debug\Hareketli Daire.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\obj\Debug\Hareketli Daire.exe
+c:\users\everest\documents\visual studio 2013\Projects\Hareketli Daire\Hareketli Daire\obj\Debug\Hareketli Daire.pdb
